@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937950947232",
+    "project_id": "chat-gpt-demo-14b67",
+    "storage_bucket": "chat-gpt-demo-14b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937950947232:android:e62244a95a41aca9c766c5",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937950947232-uj2d30r1n9skldi08ktviciufbmqn6i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLBAzsoWgAIZNt4Cf3YJiiBpsOdUuM5Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937950947232-uj2d30r1n9skldi08ktviciufbmqn6i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
